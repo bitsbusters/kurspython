@@ -3,13 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Kurs Python's documentation!
-=======================================
+Kurs programowania - od zaskrońca do pythona!
+========================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
+1. Instalacja Pythona
+2. Interaktywny terminal
+3. Hello world!
 
 
 
