@@ -10,9 +10,10 @@ Kurs programowania - od zaskrońca do pythona!
 2. Interaktywny terminal
 3. Hello world!
 
+Materiały
+=========
 
-
-Indices and tables
+Dodatkowe strony
 ==================
 
 * :ref:`genindex`
