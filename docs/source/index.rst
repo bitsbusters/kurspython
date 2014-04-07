@@ -6,15 +6,15 @@
 Kurs programowania - od zaskrońca do pythona!
 ========================================
 
-1. Instalacja Pythona
-2. Interaktywny terminal
-3. Hello world!
+1. :ref:`first_code`
 
 Materiały
 =========
 
 Dodatkowe strony
 ==================
+1. Typy języków programowania
+2. 
 
 * :ref:`genindex`
 * :ref:`modindex`
