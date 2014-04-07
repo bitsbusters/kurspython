@@ -18,6 +18,6 @@ Hello world!
 
 .. hint:: ">>>" oznaczają linie kodu wykoywane w interaktywnym terminalu, linie bez to efekt działania.
 
-.. warning:: O tym czym jest interaktywny terminal i jak go zainstalować piszę tu :ref:`iteractive_shell`.
+.. seealso:: O tym czym jest interaktywny terminal i jak go zainstalować piszę tu :ref:`iteractive_shell`.
 
 Możesz też napisać plik np. **hello.py** z tą linijką kodu, a następnie wykonać go **python hello.py**.
