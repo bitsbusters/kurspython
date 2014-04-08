@@ -33,7 +33,7 @@ Kolejny kod który napiszemy będzie wykorzystywał zmienne. Spróbujmy umieści
 
    name = 'Marcin'
    age = 26
-   print u'Hello {0}, masz już {1:d} lat!".format(name, age)
+   print u'Hello {0}, masz już {1:d} lat!'.format(name, age)
    
 O formatowaniu tekstu zamierzam napisać jeszcze osobny dział, tak aby wprowadzić was do rozbieżności midzy różnymi wersjami pythona oraz zaawansowanymi rzeczami. Na razie podstawy.
 
