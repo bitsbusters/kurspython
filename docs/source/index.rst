@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Kurs programowania - od zaskrońca do pythona!
+Kurs Pythona - Notatki
 ========================================
+1. Test
 
-1. :ref:`first_code`
 
 Materiały
 =========
+1. test
 
 Dodatkowe strony
 ==================
-1. Typy języków programowania
-2. 
+1. test
 
 * :ref:`genindex`
 * :ref:`modindex`
