@@ -10,7 +10,7 @@ Kurs Pythona - Notatki
 
 Materiały
 =========
-1. test
+1. http://django.carrots.pl/
 
 Dodatkowe strony
 ==================
